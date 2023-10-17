@@ -1,0 +1,24 @@
+[11-Oct-23 05:55PM] - INFO - Application - 'aize-data-technical-test-case' started
+[11-Oct-23 05:55PM] - INFO - Creating spark session with app-name - 'aize-data-technical-test-case'
+[11-Oct-23 05:56PM] - INFO - Reading input file - '/Users/ashish.kharbanda/Documents/aize-data-technical-test-case/data/input/coordinates.csv.gz'
+[11-Oct-23 05:56PM] - INFO - Generating geohash for coordinates for precision 12
+[11-Oct-23 05:56PM] - INFO - Generating unique prefix for geohash
+[11-Oct-23 05:56PM] - INFO - Generating unique prefix for geohash for precision - 1
+[11-Oct-23 05:56PM] - INFO - Precision - 1, distinct_coordinates - 19725, distinct_geohash - 21
+[11-Oct-23 05:56PM] - INFO - Generating unique prefix for geohash for precision - 2
+[11-Oct-23 05:56PM] - INFO - Precision - 2, distinct_coordinates - 19725, distinct_geohash - 145
+[11-Oct-23 05:56PM] - INFO - Generating unique prefix for geohash for precision - 3
+[11-Oct-23 05:56PM] - INFO - Precision - 3, distinct_coordinates - 19725, distinct_geohash - 946
+[11-Oct-23 05:56PM] - INFO - Generating unique prefix for geohash for precision - 4
+[11-Oct-23 05:56PM] - INFO - Precision - 4, distinct_coordinates - 19725, distinct_geohash - 3525
+[11-Oct-23 05:56PM] - INFO - Generating unique prefix for geohash for precision - 5
+[11-Oct-23 05:56PM] - INFO - Precision - 5, distinct_coordinates - 19725, distinct_geohash - 11378
+[11-Oct-23 05:56PM] - INFO - Generating unique prefix for geohash for precision - 6
+[11-Oct-23 05:56PM] - INFO - Precision - 6, distinct_coordinates - 19725, distinct_geohash - 19450
+[11-Oct-23 05:56PM] - INFO - Generating unique prefix for geohash for precision - 7
+[11-Oct-23 05:56PM] - INFO - Precision - 7, distinct_coordinates - 19725, distinct_geohash - 19725
+[11-Oct-23 05:56PM] - INFO - distinct_coordinates - 19725 == distinct_geohash - 19725
+[11-Oct-23 05:56PM] - INFO - Writing output file - '/Users/ashish.kharbanda/Documents/aize-data-technical-test-case/data/output/coordinates_geohash.csv/coordinates_geohash.csv'
+[11-Oct-23 05:56PM] - INFO - NumExpr defaulting to 8 threads.
+[11-Oct-23 05:56PM] - INFO - Application - 'aize-data-technical-test-case' completed
+[11-Oct-23 05:56PM] - INFO - Closing down clientserver connection

@@ -1,0 +1,6 @@
+INPUT_FILE_NAME = "coordinates.csv.gz"
+INPUT_FILE_PATH = "data/input"
+OUTPUT_FILE_PATH = "data/output"
+OUTPUT_FILE_NAME = "coordinates_geohash.csv"
+LOGS_DIR = "logs"
+LOGS_FILE_NAME = "event_logs"
